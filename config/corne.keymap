@@ -37,9 +37,9 @@
 #include "includes/conditional_layers.dtsi"
 //#include "includes/macros.dtsi"
 #include "includes/combos.dtsi"
-#include "includes/behaviours_homerow_mods.dtsi"
-//#include "includes/behaviours_mod_morph.dtsi"
-//#include "includes/behaviours_other.dtsi"
+#include "includes/behaviors_homerow_mods.dtsi"
+//#include "includes/behaviors_mod_morph.dtsi"
+//#include "includes/behaviors_other.dtsi"
 
 
 / {
