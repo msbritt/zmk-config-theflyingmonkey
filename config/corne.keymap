@@ -31,8 +31,8 @@
 #include <dt-bindings/zmk/ext_power.h>
 
 // Personal includes
-#include "includes/custom_keycodes.dtsi"
 #include "includes/settings.dtsi"
+#include "includes/custom_keycodes.dtsi"
 //#include "includes/settings_pd.dtsi"
 #include "includes/conditional_layers.dtsi"
 //#include "includes/macros.dtsi"
