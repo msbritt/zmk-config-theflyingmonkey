@@ -42,7 +42,7 @@
 // };
 
 &num_word {
-    layers = <NUM_WORD>;
+    layers = <NUM>;
     continue-list = <
         BACKSPACE DELETE DOT COMMA
         SLASH ASTERISK PLUS MINUS EQUAL DOLLAR
